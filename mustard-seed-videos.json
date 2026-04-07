@@ -23,32 +23,16 @@
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
             },
             {
-              "title": "Market Research",
-              "description": "Competition heats up as contestants face off for the first challenge.",
-              "shortDescriptionLine1": "Season 1",
-              "contentId": "ms-mogul-ep1",
-              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/MTM+Episode+1+Movavi.mp4",
+              "title": "Pilot Bloopers",
+              "description": "Behind the scenes bloopers from the pilot episode.",
+              "shortDescriptionLine1": "Bonus Content",
+              "contentId": "ms-mogul-bloopers",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Pilot+bloopers.mp4",
               "streamFormat": "mp4",
               "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Behind the Scenes",
-      "items": [
-        {
-          "title": "Pilot Bloopers",
-          "description": "Behind the scenes bloopers from the pilot episode.",
-          "shortDescriptionLine1": "Bonus Content",
-          "contentId": "ms-mogul-bloopers",
-          "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Pilot+bloopers.mp4",
-          "streamFormat": "mp4",
-          "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
-          "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
-          "hdBackgroundImageUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-hero-banner.jpg"
         }
       ]
     }
