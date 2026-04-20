@@ -3,17 +3,7 @@
     {
       "title": "Featured",
       "items": [
-        {
-          "title": "Nobody Wants to Go to Church",
-          "description": "A powerful stage play exploring faith, community, and personal struggles.",
-          "shortDescriptionLine1": "Stage Play",
-          "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/nwtgc-poster.jpg",
-          "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/nwtgc-poster.jpg",
-          "hdBackgroundImageUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/nwtgc-hero.jpg",
-          "contentId": "ms-nwtgc-featured",
-          "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/NOBODY+WANTS+TO+GO+TO+CHURCH.mp4",
-          "streamFormat": "mp4"
-        },
+      
         {
           "title": "Making the Mogul",
           "description": "Entrepreneurs compete in high-energy business and branding challenges designed to test creativity, leadership, and hustle.",
