@@ -3,7 +3,6 @@
     {
       "title": "Featured",
       "items": [
-      
         {
           "title": "Making the Mogul",
           "description": "Entrepreneurs compete in high-energy business and branding challenges designed to test creativity, leadership, and hustle.",
@@ -29,6 +28,26 @@
               "shortDescriptionLine1": "Bonus Content",
               "contentId": "ms-mogul-bloopers",
               "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Pilot+bloopers.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 1 – Market Research",
+              "description": "Competition heats up as contestants face off for their first challenge.",
+              "shortDescriptionLine1": "Season 1 | Episode 1",
+              "contentId": "ms-mogul-episode-1-market-research",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/MTM+Episode+1+Movavi.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 2 – SWOT Analysis",
+              "description": "The contestants face their first elimination and prepare for the next challenge.",
+              "shortDescriptionLine1": "Season 1 | Episode 2",
+              "contentId": "ms-mogul-episode-2-swot-analysis",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/EPISODE+2+MOVAVI.mp4",
               "streamFormat": "mp4",
               "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
