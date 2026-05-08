@@ -51,6 +51,16 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 3 – So You Think You Can Network?",
+              "description": "Contestants put their networking skills to the test as competition intensifies.",
+              "shortDescriptionLine1": "Season 1 | Episode 3",
+              "contentId": "ms-mogul-episode-3-network",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/EPISODE+3+MOVAVI.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
             }
           ]
         }
