@@ -71,6 +71,26 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 4 – Life, Wellness and Balance",
+              "description": "Contestants navigate the challenges of entrepreneurship while balancing personal wellness and professional growth.",
+              "shortDescriptionLine1": "Season 1 | Episode 4",
+              "contentId": "ms-mogul-episode-4-life-wellness-balance",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Episode+4+MOVAVI.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 4 Bloopers",
+              "description": "Behind the scenes bloopers and funny moments from Episode 4.",
+              "shortDescriptionLine1": "Bonus Content",
+              "contentId": "ms-mogul-episode-4-bloopers",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/EPISODE+4+BLOOPERS+MOVAVI.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
             }
           ]
         }
