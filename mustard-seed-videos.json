@@ -61,6 +61,16 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 3 Bloopers",
+              "description": "Behind the scenes bloopers and funny moments from Episode 3.",
+              "shortDescriptionLine1": "Bonus Content",
+              "contentId": "ms-mogul-episode-3-bloopers",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Episode+3+Bloopers+MOVAVI.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
             }
           ]
         }
