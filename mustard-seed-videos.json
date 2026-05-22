@@ -91,6 +91,26 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 5 – Social Media Challenge",
+              "description": "Contestants take on a social media challenge designed to test their creativity, branding, and ability to connect with an audience.",
+              "shortDescriptionLine1": "Season 1 | Episode 5",
+              "contentId": "ms-mogul-episode-5-social-media-challenge",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Episode+5+MOVAVI.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 5 Bloopers",
+              "description": "Behind the scenes bloopers and funny moments from Episode 5.",
+              "shortDescriptionLine1": "Bonus Content",
+              "contentId": "ms-mogul-episode-5-bloopers",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/EPISODE+5+BLOOPERS+MOVAVI.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
             }
           ]
         }
