@@ -111,7 +111,27 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
-            }
+            },
+            {
+  "title": "Episode 6 – Total Entertainment Radio",
+  "description": "Contestants split up into groups to put what they've learned thus far to the test. Which group will come out on top?",
+  "shortDescriptionLine1": "Season 1 | Episode 6",
+  "contentId": "ms-mogul-episode-6-total-entertainment-radio",
+  "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Episode+6+MOVAVI.mp4",
+  "streamFormat": "mp4",
+  "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+  "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+},
+{
+  "title": "Episode 6 Bloopers",
+  "description": "Behind the scenes bloopers and funny moments from Episode 6.",
+  "shortDescriptionLine1": "Bonus Content",
+  "contentId": "ms-mogul-episode-6-bloopers",
+  "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/EPISODE+6+BLOOPERS+MOVAVI.mp4",
+  "streamFormat": "mp4",
+  "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+  "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+}
           ]
         }
       ]
