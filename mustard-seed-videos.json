@@ -131,6 +131,16 @@
   "streamFormat": "mp4",
   "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
   "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+},
+{
+  "title": "Episode 7 – The Top 3",
+  "description": "Contestants put their best foot forward during the group challenge. Which group will take it home?",
+  "shortDescriptionLine1": "Season 1 | Episode 7",
+  "contentId": "ms-mogul-episode-7-top-3",
+  "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Episode+7+MOVAVI.mp4",
+  "streamFormat": "mp4",
+  "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+  "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
 }
           ]
         }
