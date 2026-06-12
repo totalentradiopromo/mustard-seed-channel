@@ -141,6 +141,26 @@
   "streamFormat": "mp4",
   "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
   "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+},
+{
+  "title": "Episode 8 – Reunion Part 1",
+  "description": "Contestants reunite to discuss their time on the show.",
+  "shortDescriptionLine1": "Season 1 | Episode 8",
+  "contentId": "ms-mogul-episode-8-reunion-part-1",
+  "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Episode+8+Reunion+Part+1+MOVAVI.mp4",
+  "streamFormat": "mp4",
+  "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+  "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+},
+{
+  "title": "Episode 8 Bloopers",
+  "description": "Behind the scenes bloopers and funny moments from Reunion Part 1.",
+  "shortDescriptionLine1": "Bonus Content",
+  "contentId": "ms-mogul-episode-8-bloopers",
+  "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/REUNION+1+BLOOPERSEnding.mp4",
+  "streamFormat": "mp4",
+  "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+  "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
 }
           ]
         }
