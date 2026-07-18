@@ -171,6 +171,16 @@
   "streamFormat": "mp4",
   "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
   "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
+},
+{
+  "title": "How to Inquire About Being on the Show",
+  "description": "Interested in being a contestant on a future season of Making the Mogul? Watch this video to learn how to apply and what we're looking for.",
+  "shortDescriptionLine1": "Casting Information",
+  "contentId": "ms-mogul-how-to-apply",
+  "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Add+a+subheading+(4).mp4",
+  "streamFormat": "mp4",
+  "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png",
+  "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/making-the-mogul-poster.png"
 }
           ]
         }
