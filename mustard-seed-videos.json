@@ -191,6 +191,23 @@
           "hdBackgroundImageUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/nwtgc-hero.jpg"
         }
       ]
+    },
+    {
+      "title": "DJ Footage",
+      "items": [
+        {
+          "title": "DJ Performance",
+          "description": "Watch exclusive DJ footage featuring live performances, music, and behind-the-scenes moments.",
+          "shortDescriptionLine1": "DJ Footage",
+          "contentId": "dj-footage-001",
+          "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/IMG_1028.MP4",
+          "streamFormat": "mp4",
+          "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/nwtgc-poster.jpg",
+          "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/nwtgc-poster.jpg",
+          "hdBackgroundImageUrl": "https://raw.githubusercontent.com/totalentradiopromo/mustard-seed-channel/main/images/nwtgc-hero.jpg"
+        }
+      ]
     }
   ]
 }
+
